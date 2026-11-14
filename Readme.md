@@ -117,29 +117,25 @@ pkg install git ffmpeg -y
 ### Step 4 — Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/lavynra-root/video-cutter.git
 ```
-
-> Replace `USERNAME/REPOSITORY` with your actual GitHub username and repository name.
 
 ### Step 5 — Enter Repository Directory
 
 ```bash
-cd REPOSITORY
+cd video-cutter
 ```
-
-Replace `REPOSITORY` with the directory name created by the clone command.
 
 ### Step 6 — Give Execution Permission
 
 ```bash
-chmod +x lavynra2.sh
+chmod +x lavynra.sh
 ```
 
 ### Step 7 — Run The Tool
 
 ```bash
-bash lavynra2.sh
+bash lavynra.sh
 ```
 
 ### Step 8 — Allow Storage Permission
